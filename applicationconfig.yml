@@ -8,8 +8,8 @@ eureka:
 spring:
   profiles:
     active: dev
-  application:
-    name: model-client
+#   application:
+#     name: model-client
   datasource:
     url: jdbc:mysql://localhost:3306/warehouse
     username: root
